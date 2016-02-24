@@ -1,0 +1,27 @@
+Tag names following PHP version.
+
+PHP extensions installed:
+
+- ctype
+- dom
+- fileinfo
+- gd
+- intl
+- json
+- mbstring
+- mcrypt
+- mssql
+- mysqli
+- opcache
+- pcntl
+- pdo
+- pdo_mysql
+- phar
+- simplexml
+- zip
+
+Extras installed:
+
+- Composer
+- vim
+
