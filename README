@@ -1,7 +1,12 @@
+PHP 7, extensions and Apache2
+=============================
+
 Tag names following PHP version.
 
-PHP extensions installed:
+PHP extensions installed
+------------------------
 
+- apcu
 - ctype
 - dom
 - fileinfo
@@ -12,15 +17,19 @@ PHP extensions installed:
 - mcrypt
 - mssql
 - mysqli
+- oci8
 - opcache
 - pcntl
 - pdo
 - pdo_mysql
+- pdo_pgsql
 - phar
 - simplexml
+- xdebug
 - zip
 
-Extras installed:
+Extras installed
+----------------
 
 - Composer
 - vim
